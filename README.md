@@ -1,4 +1,5 @@
 # [CatalogHackathon](https://muskangupta2507.github.io/CatalogHackathon/)
+CLick on the link above to go live and continue from step 3.
 Steps calculate Secret:-
 1. clone the repo
 2. go live
