@@ -2,7 +2,7 @@
 CLick on the link above to go live and continue from step 3.
 
 
-Steps calculate Secret:-
+Steps to calculate Secret:-
 1. clone the repo
 2. go live
 3. paste the json on testarea 
